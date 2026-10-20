@@ -7,7 +7,7 @@ int main()
     int sum = 0;
     int min_i = INT_MAX;
     int max_i = INT_MIN;
-
+    bool flag = 0;
     while (true)
     {
         std::cin >> a;
